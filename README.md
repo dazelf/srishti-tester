@@ -25,7 +25,7 @@ pip install requests
 ```
 
 ```bash
-cp script.py
+touch script.py
 ```
 ### Copy the below code in script.py
 
