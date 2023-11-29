@@ -41,6 +41,10 @@ response = a.put(table="test_table", id=4, files=files, data={ 'name':'John', 'e
 print(response)
 ```
 
+```bash
+python script.py
+```
+
 ## Configuration
 
 token: Your Srishti API token for authentication.
